@@ -1,0 +1,11 @@
+{
+    "name": "on2media/fly-copy",
+    "description": "Copies a file from OpenStack to the local filesystem if it has been modified",
+    "license": "GPL-2.0",
+    "require": {
+        "league/flysystem": "^1.0",
+        "league/flysystem-rackspace": "^1.0",
+        "vlucas/phpdotenv": "^2.0",
+        "league/climate": "^3.2"
+    }
+}
